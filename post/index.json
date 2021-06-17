@@ -1,0 +1,28 @@
+{
+    "posts" : [
+        {
+            "title" : "The Game is over. Long live the Game!",
+            "date" : "17 June 2021",
+            "url" : "/game-of-links-end/",
+            "author" : "savetheales"
+        },
+        {
+            "title" : "Proposal #34. Game of Links closing",
+            "date" : "30 May 2021",
+            "url" : "/gol-finish/",
+            "author" : "savetheales"
+        },
+        {
+            "title" : "Proposal #35. Bostrom pre-network launch",
+            "date" : "30 May 2021",
+            "url" : "/bostrom-pre-proposal/",
+            "author" : "savetheales"
+        },
+        {
+            "title" : "Proposal #33. Updates to the Game of Links",
+            "date" : "23 April 2021",
+            "url" : "/game-of-link-update-3/",
+            "author" : "savetheales"
+        }
+        ]
+}
